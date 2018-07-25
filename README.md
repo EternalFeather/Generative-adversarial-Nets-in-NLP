@@ -347,6 +347,46 @@ Comparison of continuous & discrete distributions. (x : θ, y : loss)
 - 用传统的 maximum likelihood training pre-train一个语言模型，之后将这个语言模型的网络权值赋值给seq2seq模型的encoder和decoder模块; 
 - 用得到的seq2seq模型来做完型填空任务（ in-filling task），用传统的 maximum likelihood training来训练，得到的seq2seq模型网络权值赋值给MaskGAN的generator和discriminator。
 
+# Attention-Based Reward Conditional Sequence Generative Adversarial Network(AR-CSGAN proposed by ourselves)
+
+- Key Points：
+    - **Conditional Sequence Generative Model**
+    - **Schedule Sampling**
+    - **Attention-Based Reward System**
+    - **Policy Gradients Optimization**
+- Graph & Algorithm：
+
+- **Model overview**
+
+![](https://i.imgur.com/rVQu9q5.png)
+
+- **Reward attention system**
+
+![](https://i.imgur.com/dEPeXUq.png)
+
+- **Global teacher forcing**
+
+![](https://i.imgur.com/dZC1l9f.png)
+
+- **The whole system**
+
+![](https://i.imgur.com/3kXUwmh.png)
+
+- **Algorithm**
+
+![](https://i.imgur.com/s06VLxG.png)
+
+- **We propose an attention-based reward conditional SeqGAN Model to assign the reward from the discriminator.**
+    - Generating diverse, meaningful and more extended sequences
+    - Solving the problems of making GANs difficult to work in NLP
+    - Automatically assign the rewards from discriminator
+    - Stable and computationally efficient
+- **Some special training strategies are presented, which help us to train our model stably.**
+    - Sequence AutoEncoder
+    - Teacher Forcing
+    - Dynamic Learning Rate
+    - Weight clipping
+
 # 参考（reference）
 
 - [DeepDrumpf Tweeter](https://www.csail.mit.edu/news/postdoc-develops-twitterbot-uses-ai-sound-donald-trump)
