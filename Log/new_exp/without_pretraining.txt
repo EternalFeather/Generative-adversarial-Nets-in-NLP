@@ -1,0 +1,51 @@
+Adversarial Training...
+Adversarial Epoch:	0	G_NLL:	11.431834	Learning_rate:	0.004
+Adversarial Epoch:	0	D_NLL:	0.22958782
+Adversarial Epoch:	5	G_NLL:	11.427672	Learning_rate:	0.004
+Adversarial Epoch:	5	D_NLL:	0.0007313499
+Adversarial Epoch:	10	G_NLL:	11.436781	Learning_rate:	0.004
+Adversarial Epoch:	10	D_NLL:	0.000886455
+Adversarial Epoch:	15	G_NLL:	11.427972	Learning_rate:	0.004
+Adversarial Epoch:	15	D_NLL:	0.00013982302
+Adversarial Epoch:	20	G_NLL:	11.42291	Learning_rate:	0.0038400001
+Adversarial Epoch:	20	D_NLL:	0.00020237941
+Adversarial Epoch:	25	G_NLL:	11.428867	Learning_rate:	0.0038400001
+Adversarial Epoch:	25	D_NLL:	0.00020632119
+Adversarial Epoch:	30	G_NLL:	11.428796	Learning_rate:	0.0038400001
+Adversarial Epoch:	30	D_NLL:	9.139175e-05
+Adversarial Epoch:	35	G_NLL:	11.426442	Learning_rate:	0.0038400001
+Adversarial Epoch:	35	D_NLL:	9.087994e-05
+Adversarial Epoch:	40	G_NLL:	11.420105	Learning_rate:	0.0036864
+Adversarial Epoch:	40	D_NLL:	6.4510896e-05
+Adversarial Epoch:	45	G_NLL:	11.423093	Learning_rate:	0.0036864
+Adversarial Epoch:	45	D_NLL:	8.531876e-05
+Adversarial Epoch:	50	G_NLL:	11.42563	Learning_rate:	0.0036864
+Adversarial Epoch:	50	D_NLL:	5.45663e-05
+Adversarial Epoch:	55	G_NLL:	11.42676	Learning_rate:	0.0036864
+Adversarial Epoch:	55	D_NLL:	4.4378525e-05
+Adversarial Epoch:	60	G_NLL:	11.422701	Learning_rate:	0.0035389436
+Adversarial Epoch:	60	D_NLL:	5.673235e-05
+Adversarial Epoch:	65	G_NLL:	11.433138	Learning_rate:	0.0035389436
+Adversarial Epoch:	65	D_NLL:	6.381703e-05
+Adversarial Epoch:	70	G_NLL:	11.435748	Learning_rate:	0.0035389436
+Adversarial Epoch:	70	D_NLL:	0.00017300075
+Adversarial Epoch:	75	G_NLL:	11.415291	Learning_rate:	0.0035389436
+Adversarial Epoch:	75	D_NLL:	0.0002166003
+Adversarial Epoch:	80	G_NLL:	11.4349	Learning_rate:	0.003397386
+Adversarial Epoch:	80	D_NLL:	8.7577704e-05
+Adversarial Epoch:	85	G_NLL:	11.4275	Learning_rate:	0.003397386
+Adversarial Epoch:	85	D_NLL:	9.790253e-05
+Adversarial Epoch:	90	G_NLL:	11.423238	Learning_rate:	0.003397386
+Adversarial Epoch:	90	D_NLL:	3.6229554e-05
+Adversarial Epoch:	95	G_NLL:	11.430298	Learning_rate:	0.003397386
+Adversarial Epoch:	95	D_NLL:	0.00012427404
+Adversarial Epoch:	100	G_NLL:	11.428762	Learning_rate:	0.0032614905
+Adversarial Epoch:	100	D_NLL:	0.00019977547
+Adversarial Epoch:	105	G_NLL:	11.42832	Learning_rate:	0.0032614905
+Adversarial Epoch:	105	D_NLL:	8.356676e-05
+Adversarial Epoch:	110	G_NLL:	11.426372	Learning_rate:	0.0032614905
+Adversarial Epoch:	110	D_NLL:	8.702898e-05
+Adversarial Epoch:	115	G_NLL:	11.424892	Learning_rate:	0.0032614905
+Adversarial Epoch:	115	D_NLL:	6.225778e-05
+Adversarial Epoch:	119	G_NLL:	11.414819	Learning_rate:	0.0032614905
+Adversarial Epoch:	119	D_NLL:	5.7961774e-05

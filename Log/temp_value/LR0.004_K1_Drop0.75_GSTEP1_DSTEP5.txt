@@ -1,0 +1,185 @@
+Pre-train Attention_Mechanism...
+Pre-train Generator Epoch:	0	NLL:	10.290129	Attention_Loss:	7.9344215
+Pre-train Generator Epoch:	5	NLL:	9.95194	Attention_Loss:	6.9175954
+Pre-train Generator Epoch:	10	NLL:	9.861125	Attention_Loss:	5.651523
+Pre-train Generator Epoch:	15	NLL:	9.827475	Attention_Loss:	4.7013125
+Pre-train Generator Epoch:	20	NLL:	9.767518	Attention_Loss:	3.8135552
+Pre-train Generator Epoch:	25	NLL:	9.679816	Attention_Loss:	3.088136
+Pre-train Generator Epoch:	30	NLL:	9.690151	Attention_Loss:	2.437459
+Pre-train Generator Epoch:	35	NLL:	9.587712	Attention_Loss:	1.9913874
+Pre-train Generator Epoch:	40	NLL:	9.444552	Attention_Loss:	1.4172462
+Pre-train Generator Epoch:	45	NLL:	9.217585	Attention_Loss:	1.1317872
+Pre-train Generator Epoch:	50	NLL:	9.023875	Attention_Loss:	0.9500314
+Pre-train Generator Epoch:	55	NLL:	8.7890005	Attention_Loss:	0.7999381
+Pre-train Generator Epoch:	60	NLL:	8.591056	Attention_Loss:	0.6215613
+Pre-train Generator Epoch:	65	NLL:	8.280315	Attention_Loss:	0.58595836
+Pre-train Generator Epoch:	70	NLL:	8.006581	Attention_Loss:	0.64633083
+Pre-train Generator Epoch:	75	NLL:	7.9115634	Attention_Loss:	0.49830717
+Pre-train Generator Epoch:	80	NLL:	7.6878624	Attention_Loss:	0.48107156
+Pre-train Generator Epoch:	85	NLL:	7.887692	Attention_Loss:	0.4793773
+Pre-train Generator Epoch:	90	NLL:	7.62495	Attention_Loss:	0.5019872
+Pre-train Generator Epoch:	95	NLL:	7.5387244	Attention_Loss:	0.33329657
+Pre-train Generator Epoch:	100	NLL:	7.3631005	Attention_Loss:	0.45663047
+Pre-train Generator Epoch:	105	NLL:	7.1144776	Attention_Loss:	0.34493247
+Pre-train Generator Epoch:	110	NLL:	7.2596397	Attention_Loss:	0.45524696
+Pre-train Generator Epoch:	115	NLL:	7.073905	Attention_Loss:	0.4334809
+Pre-train Generator Epoch:	120	NLL:	6.9176865	Attention_Loss:	0.29008514
+Pre-train Generator Epoch:	125	NLL:	6.785784	Attention_Loss:	0.26903406
+Pre-train Generator Epoch:	130	NLL:	6.9204526	Attention_Loss:	0.36105424
+Pre-train Generator Epoch:	135	NLL:	6.851363	Attention_Loss:	0.29099846
+Pre-train Generator Epoch:	140	NLL:	6.741987	Attention_Loss:	0.25965592
+Pre-train Generator Epoch:	145	NLL:	6.8371615	Attention_Loss:	0.4629415
+Pre-train Generator Epoch:	150	NLL:	6.7823057	Attention_Loss:	0.40841368
+Pre-train Generator Epoch:	155	NLL:	6.8097863	Attention_Loss:	0.39386076
+Pre-train Generator Epoch:	160	NLL:	6.6322007	Attention_Loss:	0.34195533
+Pre-train Generator Epoch:	165	NLL:	6.7249656	Attention_Loss:	0.3381565
+Pre-train Generator Epoch:	170	NLL:	6.6991696	Attention_Loss:	0.287086
+Pre-train Generator Epoch:	175	NLL:	6.741477	Attention_Loss:	0.34349945
+Pre-train Generator Epoch:	180	NLL:	6.673084	Attention_Loss:	0.2730306
+Pre-train Generator Epoch:	185	NLL:	6.517251	Attention_Loss:	0.26785353
+Pre-train Generator Epoch:	190	NLL:	6.700261	Attention_Loss:	0.3219287
+Pre-train Generator Epoch:	195	NLL:	6.625139	Attention_Loss:	0.37634012
+Pre-train Generator Epoch:	200	NLL:	6.5866885	Attention_Loss:	0.31664672
+Pre-train Generator Epoch:	205	NLL:	6.5428257	Attention_Loss:	0.32725495
+Pre-train Generator Epoch:	210	NLL:	6.5816383	Attention_Loss:	0.29588905
+Pre-train Generator Epoch:	215	NLL:	6.6068044	Attention_Loss:	0.354216
+Pre-train Generator Epoch:	220	NLL:	6.4700155	Attention_Loss:	0.28112957
+Pre-train Generator Epoch:	225	NLL:	6.550725	Attention_Loss:	0.3222333
+Pre-train Generator Epoch:	230	NLL:	6.40481	Attention_Loss:	0.24537852
+Pre-train Generator Epoch:	235	NLL:	6.534291	Attention_Loss:	0.32133707
+Pre-train Generator Epoch:	240	NLL:	6.39595	Attention_Loss:	0.2298119
+Pre-train Generator Epoch:	245	NLL:	6.668733	Attention_Loss:	0.41549858
+Pre-train Generator Epoch:	250	NLL:	6.547169	Attention_Loss:	0.39446434
+Pre-train Generator Epoch:	255	NLL:	6.4981923	Attention_Loss:	0.3022184
+Pre-train Generator Epoch:	260	NLL:	6.511111	Attention_Loss:	0.30473053
+Pre-train Generator Epoch:	265	NLL:	6.457479	Attention_Loss:	0.29679713
+Pre-train Generator Epoch:	270	NLL:	6.459205	Attention_Loss:	0.3519735
+Pre-train Generator Epoch:	275	NLL:	6.6203027	Attention_Loss:	0.3883274
+Pre-train Generator Epoch:	280	NLL:	6.570513	Attention_Loss:	0.39084244
+Pre-train Generator Epoch:	285	NLL:	6.3952365	Attention_Loss:	0.23952992
+Pre-train Generator Epoch:	290	NLL:	6.4045997	Attention_Loss:	0.30015382
+Pre-train Generator Epoch:	295	NLL:	6.470955	Attention_Loss:	0.26891312
+Pre-train Generator Epoch:	300	NLL:	6.7146225	Attention_Loss:	0.35731205
+Pre-train Generator Epoch:	305	NLL:	6.4091005	Attention_Loss:	0.3353832
+Pre-train Generator Epoch:	310	NLL:	6.4975533	Attention_Loss:	0.30642974
+Pre-train Generator Epoch:	315	NLL:	6.37868	Attention_Loss:	0.24451393
+Pre-train Generator Epoch:	320	NLL:	6.4368896	Attention_Loss:	0.3645873
+Pre-train Generator Epoch:	325	NLL:	6.3627872	Attention_Loss:	0.26799044
+Pre-train Generator Epoch:	330	NLL:	6.483506	Attention_Loss:	0.2857532
+Pre-train Generator Epoch:	335	NLL:	6.5108542	Attention_Loss:	0.26301187
+Pre-train Generator Epoch:	340	NLL:	6.5303926	Attention_Loss:	0.34312233
+Pre-train Generator Epoch:	345	NLL:	6.652682	Attention_Loss:	0.5294335
+Pre-train Discriminator...
+Pre-train Discriminator Epoch:	0	NLL:	4.462679
+Pre-train Discriminator Epoch:	5	NLL:	1.9902493
+Pre-train Discriminator Epoch:	10	NLL:	1.1344496
+Pre-train Discriminator Epoch:	15	NLL:	0.80327374
+Pre-train Discriminator Epoch:	20	NLL:	0.7267719
+Pre-train Discriminator Epoch:	25	NLL:	0.707695
+Pre-train Discriminator Epoch:	30	NLL:	0.6998783
+Pre-train Discriminator Epoch:	35	NLL:	0.6962851
+Pre-train Discriminator Epoch:	40	NLL:	0.69499385
+Pre-train Discriminator Epoch:	45	NLL:	0.693747
+Adversarial Training...
+Adversarial Epoch:	0	G_NLL:	6.4106216	Learning_rate:	0.004
+Adversarial Epoch:	0	D_NLL:	0.6935072
+Adversarial Epoch:	5	G_NLL:	6.502632	Learning_rate:	0.004
+Adversarial Epoch:	5	D_NLL:	0.69316185
+Adversarial Epoch:	10	G_NLL:	6.5269322	Learning_rate:	0.004
+Adversarial Epoch:	10	D_NLL:	0.6927281
+Adversarial Epoch:	15	G_NLL:	6.502944	Learning_rate:	0.004
+Adversarial Epoch:	15	D_NLL:	0.69170105
+Adversarial Epoch:	20	G_NLL:	6.437413	Learning_rate:	0.0038400001
+Adversarial Epoch:	20	D_NLL:	0.68710035
+Adversarial Epoch:	25	G_NLL:	6.3705997	Learning_rate:	0.0038400001
+Adversarial Epoch:	25	D_NLL:	0.67689294
+Adversarial Epoch:	30	G_NLL:	6.359495	Learning_rate:	0.0038400001
+Adversarial Epoch:	30	D_NLL:	0.6625567
+Adversarial Epoch:	35	G_NLL:	6.299846	Learning_rate:	0.0038400001
+Adversarial Epoch:	35	D_NLL:	0.64953226
+Adversarial Epoch:	40	G_NLL:	6.2967234	Learning_rate:	0.0036864
+Adversarial Epoch:	40	D_NLL:	0.62676966
+Adversarial Epoch:	45	G_NLL:	6.264009	Learning_rate:	0.0036864
+Adversarial Epoch:	45	D_NLL:	0.6175493
+Adversarial Epoch:	50	G_NLL:	6.2364817	Learning_rate:	0.0036864
+Adversarial Epoch:	50	D_NLL:	0.61538494
+Adversarial Epoch:	55	G_NLL:	6.25792	Learning_rate:	0.0036864
+Adversarial Epoch:	55	D_NLL:	0.59726036
+Adversarial Epoch:	60	G_NLL:	6.2041187	Learning_rate:	0.0035389436
+Adversarial Epoch:	60	D_NLL:	0.6029341
+Adversarial Epoch:	65	G_NLL:	6.1820755	Learning_rate:	0.0035389436
+Adversarial Epoch:	65	D_NLL:	0.601889
+Adversarial Epoch:	70	G_NLL:	6.1683016	Learning_rate:	0.0035389436
+Adversarial Epoch:	70	D_NLL:	0.60368854
+Adversarial Epoch:	75	G_NLL:	6.129968	Learning_rate:	0.0035389436
+Adversarial Epoch:	75	D_NLL:	0.60442144
+Adversarial Epoch:	80	G_NLL:	6.098109	Learning_rate:	0.003397386
+Adversarial Epoch:	80	D_NLL:	0.6103261
+Adversarial Epoch:	85	G_NLL:	6.0806546	Learning_rate:	0.003397386
+Adversarial Epoch:	85	D_NLL:	0.6114821
+Adversarial Epoch:	90	G_NLL:	6.081295	Learning_rate:	0.003397386
+Adversarial Epoch:	90	D_NLL:	0.6060583
+Adversarial Epoch:	95	G_NLL:	6.0834556	Learning_rate:	0.003397386
+Adversarial Epoch:	95	D_NLL:	0.60096085
+Adversarial Epoch:	100	G_NLL:	6.082427	Learning_rate:	0.0032614905
+Adversarial Epoch:	100	D_NLL:	0.59938186
+Adversarial Epoch:	105	G_NLL:	6.077769	Learning_rate:	0.0032614905
+Adversarial Epoch:	105	D_NLL:	0.60062224
+Adversarial Epoch:	110	G_NLL:	6.050166	Learning_rate:	0.0032614905
+Adversarial Epoch:	110	D_NLL:	0.60685056
+Adversarial Epoch:	115	G_NLL:	6.021636	Learning_rate:	0.0032614905
+Adversarial Epoch:	115	D_NLL:	0.6149194
+Adversarial Epoch:	120	G_NLL:	6.021837	Learning_rate:	0.0031310306
+Adversarial Epoch:	120	D_NLL:	0.6161255
+Adversarial Epoch:	125	G_NLL:	6.0115037	Learning_rate:	0.0031310306
+Adversarial Epoch:	125	D_NLL:	0.61616135
+Adversarial Epoch:	130	G_NLL:	5.997464	Learning_rate:	0.0031310306
+Adversarial Epoch:	130	D_NLL:	0.61733586
+Adversarial Epoch:	135	G_NLL:	5.9894557	Learning_rate:	0.0031310306
+Adversarial Epoch:	135	D_NLL:	0.6222966
+Adversarial Epoch:	140	G_NLL:	5.981931	Learning_rate:	0.0030057894
+Adversarial Epoch:	140	D_NLL:	0.62244064
+Adversarial Epoch:	145	G_NLL:	5.99224	Learning_rate:	0.0030057894
+Adversarial Epoch:	145	D_NLL:	0.6189917
+Adversarial Epoch:	150	G_NLL:	5.969686	Learning_rate:	0.0030057894
+Adversarial Epoch:	150	D_NLL:	0.62591714
+Adversarial Epoch:	155	G_NLL:	5.987813	Learning_rate:	0.0030057894
+Adversarial Epoch:	155	D_NLL:	0.61722904
+Adversarial Epoch:	160	G_NLL:	5.968581	Learning_rate:	0.002885558
+Adversarial Epoch:	160	D_NLL:	0.62655157
+Adversarial Epoch:	165	G_NLL:	5.9809985	Learning_rate:	0.002885558
+Adversarial Epoch:	165	D_NLL:	0.6198495
+Adversarial Epoch:	170	G_NLL:	5.9565415	Learning_rate:	0.002885558
+Adversarial Epoch:	170	D_NLL:	0.6285076
+Adversarial Epoch:	175	G_NLL:	5.9547596	Learning_rate:	0.002885558
+Adversarial Epoch:	175	D_NLL:	0.62738794
+Adversarial Epoch:	180	G_NLL:	5.9735684	Learning_rate:	0.0027701356
+Adversarial Epoch:	180	D_NLL:	0.6227121
+Adversarial Epoch:	185	G_NLL:	5.9645934	Learning_rate:	0.0027701356
+Adversarial Epoch:	185	D_NLL:	0.6288925
+Adversarial Epoch:	190	G_NLL:	5.984977	Learning_rate:	0.0027701356
+Adversarial Epoch:	190	D_NLL:	0.61826473
+Adversarial Epoch:	195	G_NLL:	5.9516497	Learning_rate:	0.0027701356
+Adversarial Epoch:	195	D_NLL:	0.62837934
+Adversarial Epoch:	200	G_NLL:	5.9362407	Learning_rate:	0.00265933
+Adversarial Epoch:	200	D_NLL:	0.6329287
+Adversarial Epoch:	205	G_NLL:	5.9452405	Learning_rate:	0.00265933
+Adversarial Epoch:	205	D_NLL:	0.63697803
+Adversarial Epoch:	210	G_NLL:	5.951504	Learning_rate:	0.00265933
+Adversarial Epoch:	210	D_NLL:	0.6267893
+Adversarial Epoch:	215	G_NLL:	5.948041	Learning_rate:	0.00265933
+Adversarial Epoch:	215	D_NLL:	0.6315124
+Adversarial Epoch:	220	G_NLL:	5.94426	Learning_rate:	0.002552957
+Adversarial Epoch:	220	D_NLL:	0.6346408
+Adversarial Epoch:	225	G_NLL:	5.9375453	Learning_rate:	0.002552957
+Adversarial Epoch:	225	D_NLL:	0.6327235
+Adversarial Epoch:	230	G_NLL:	5.926227	Learning_rate:	0.002552957
+Adversarial Epoch:	230	D_NLL:	0.6379481
+Adversarial Epoch:	235	G_NLL:	5.9345293	Learning_rate:	0.002552957
+Adversarial Epoch:	235	D_NLL:	0.63755035
+Adversarial Epoch:	240	G_NLL:	5.935028	Learning_rate:	0.0024508385
+Adversarial Epoch:	240	D_NLL:	0.6373717
+Adversarial Epoch:	245	G_NLL:	5.9271607	Learning_rate:	0.0024508385
+Adversarial Epoch:	245	D_NLL:	0.638531
+Adversarial Epoch:	249	G_NLL:	5.923504	Learning_rate:	0.0024508385
+Adversarial Epoch:	249	D_NLL:	0.64074695

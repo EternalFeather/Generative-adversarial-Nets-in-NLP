@@ -1,0 +1,83 @@
+Pre-train Generator...
+Pre-train Generator Epoch:	0	NLL:	11.688	Generator_Loss:6.56274
+Pre-train Generator Epoch:	5	NLL:	11.6768	Generator_Loss:5.53718
+Pre-train Generator Epoch:	10	NLL:	11.6464	Generator_Loss:4.76733
+Pre-train Generator Epoch:	15	NLL:	11.6813	Generator_Loss:4.39325
+Pre-train Generator Epoch:	20	NLL:	11.6813	Generator_Loss:4.15914
+Pre-train Generator Epoch:	25	NLL:	11.6847	Generator_Loss:4.01744
+Pre-train Generator Epoch:	30	NLL:	11.7001	Generator_Loss:3.90874
+Pre-train Generator Epoch:	35	NLL:	11.6537	Generator_Loss:3.82722
+Pre-train Generator Epoch:	40	NLL:	11.6635	Generator_Loss:3.75945
+Pre-train Generator Epoch:	45	NLL:	11.6792	Generator_Loss:3.71164
+Pre-train Generator Epoch:	50	NLL:	11.6836	Generator_Loss:3.66846
+Pre-train Generator Epoch:	55	NLL:	11.6635	Generator_Loss:3.63632
+Pre-train Generator Epoch:	60	NLL:	11.6745	Generator_Loss:3.62074
+Pre-train Generator Epoch:	65	NLL:	11.657	Generator_Loss:3.58382
+Pre-train Generator Epoch:	70	NLL:	11.6768	Generator_Loss:3.55573
+Pre-train Generator Epoch:	75	NLL:	11.6746	Generator_Loss:3.54937
+Pre-train Generator Epoch:	80	NLL:	11.6471	Generator_Loss:3.5173
+Pre-train Generator Epoch:	85	NLL:	11.6714	Generator_Loss:3.51875
+Pre-train Generator Epoch:	90	NLL:	11.6599	Generator_Loss:3.49017
+Pre-train Generator Epoch:	95	NLL:	11.6523	Generator_Loss:3.48057
+Pre-train Generator Epoch:	100	NLL:	11.6816	Generator_Loss:3.47132
+Pre-train Generator Epoch:	105	NLL:	11.6721	Generator_Loss:3.45706
+Pre-train Generator Epoch:	110	NLL:	11.6606	Generator_Loss:3.46438
+Pre-train Generator Epoch:	115	NLL:	11.6549	Generator_Loss:3.42483
+Pre-train Discriminator...
+Pre-train Discriminator Epoch:	0	NLL:	1.00666
+Pre-train Discriminator Epoch:	5	NLL:	0.61174
+Pre-train Discriminator Epoch:	10	NLL:	0.525331
+Pre-train Discriminator Epoch:	15	NLL:	0.416643
+Pre-train Discriminator Epoch:	20	NLL:	0.328195
+Pre-train Discriminator Epoch:	25	NLL:	0.263914
+Adversarial Training...
+Adversarial Epoch:	0	G_NLL:	3.49583
+Adversarial Epoch:	0	D_NLL:	0.186239
+Adversarial Epoch:	5	G_NLL:	3.46271
+Adversarial Epoch:	5	D_NLL:	0.100192
+Adversarial Epoch:	10	G_NLL:	3.45362
+Adversarial Epoch:	10	D_NLL:	0.0711489
+Adversarial Epoch:	15	G_NLL:	3.44321
+Adversarial Epoch:	15	D_NLL:	0.0590331
+Adversarial Epoch:	20	G_NLL:	3.42004
+Adversarial Epoch:	20	D_NLL:	0.0509639
+Adversarial Epoch:	25	G_NLL:	3.40282
+Adversarial Epoch:	25	D_NLL:	0.0397765
+Adversarial Epoch:	30	G_NLL:	3.38414
+Adversarial Epoch:	30	D_NLL:	0.0373843
+Adversarial Epoch:	35	G_NLL:	3.35053
+Adversarial Epoch:	35	D_NLL:	0.0332225
+Adversarial Epoch:	40	G_NLL:	3.35976
+Adversarial Epoch:	40	D_NLL:	0.0311425
+Adversarial Epoch:	45	G_NLL:	3.34352
+Adversarial Epoch:	45	D_NLL:	0.0291362
+Adversarial Epoch:	50	G_NLL:	3.30292
+Adversarial Epoch:	50	D_NLL:	0.0249565
+Adversarial Epoch:	55	G_NLL:	3.00899
+Adversarial Epoch:	55	D_NLL:	0.00870048
+Adversarial Epoch:	60	G_NLL:	3.05378
+Adversarial Epoch:	60	D_NLL:	0.00987603
+Adversarial Epoch:	65	G_NLL:	3.30584
+Adversarial Epoch:	65	D_NLL:	0.0210841
+Adversarial Epoch:	70	G_NLL:	3.31812
+Adversarial Epoch:	70	D_NLL:	0.0221791
+Adversarial Epoch:	75	G_NLL:	3.3137
+Adversarial Epoch:	75	D_NLL:	0.0188948
+Adversarial Epoch:	80	G_NLL:	3.31779
+Adversarial Epoch:	80	D_NLL:	0.0173686
+Adversarial Epoch:	85	G_NLL:	3.30547
+Adversarial Epoch:	85	D_NLL:	0.0191034
+Adversarial Epoch:	90	G_NLL:	3.30803
+Adversarial Epoch:	90	D_NLL:	0.0169376
+Adversarial Epoch:	95	G_NLL:	3.3036
+Adversarial Epoch:	95	D_NLL:	0.0150443
+Adversarial Epoch:	100	G_NLL:	3.27684
+Adversarial Epoch:	100	D_NLL:	0.0151115
+Adversarial Epoch:	105	G_NLL:	3.27904
+Adversarial Epoch:	105	D_NLL:	0.0153599
+Adversarial Epoch:	110	G_NLL:	3.29726
+Adversarial Epoch:	110	D_NLL:	0.0164647
+Adversarial Epoch:	115	G_NLL:	3.29831
+Adversarial Epoch:	115	D_NLL:	0.0151832
+Adversarial Epoch:	119	G_NLL:	3.30529
+Adversarial Epoch:	119	D_NLL:	0.0155015
